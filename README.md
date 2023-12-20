@@ -47,7 +47,7 @@ javac App.java
 ```bash
 java App
 ```
-- Or navigate to the app.js file
+- Or navigate to the App.java file
 - Then at the top right corner click on the triangle/play button next the split editor button.
 
 If running on IntelliJ
