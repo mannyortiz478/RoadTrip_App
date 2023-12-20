@@ -15,12 +15,13 @@ A Java Program that creates a road trip internary
 
 ## About
 
-- Java program that uses basic OOP principles, and los and displays information of a road trip on a minivan 
+- Java program that uses basic OOP principles, and displays information about a road trip on a minivan.
+- Purpose of the project was to reinforce OOP, learned in my class. 
 
 ## Features
 
-There are really no features
-- Currently, there are plans to make a GUI, to not have to be depending on the terminal for user input.
+There are no features
+- Currently, there are plans to make a GUI, to not have to be depending on the terminal for user input and output.
 
 ## Prerequisites
 
@@ -33,8 +34,6 @@ There are really no features
 ```bash
 git clone https://github.com/mannyortiz478/RoadTrip-app.git
 ```
-- Start a python virtual enviornment (make sure you are in the latest python version 3.9 or higher)
-- then with the terminal in your IDE, run `python3 main.py`.
 
 ## Getting Started
 
@@ -57,4 +56,4 @@ If running on IntelliJ
 
 - Feel free to use any other method!
 ## Contributing
-I did this myself, but I am open to contributing with others to leverage this application.
+I did this myself, but I am open to contributing with others to leverage this program.
